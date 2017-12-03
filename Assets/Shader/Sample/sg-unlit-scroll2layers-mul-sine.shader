@@ -1,4 +1,4 @@
-Shader "MADFINGER/Environment/Scroll 2 Layers Multiplicative No Lightmap Sine)" {
+Shader "SG/Environment/Scroll 2 Layers Multiplicative No Lightmap Sine)" {
 	Properties {
 		_MainTex ("Base layer (RGB)", 2D) = "white" {}
 		_DetailTex ("2nd layer (RGB)", 2D) = "white" {}

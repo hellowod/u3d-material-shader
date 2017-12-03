@@ -7,7 +7,7 @@
 // - Per-vertex (virtual) camera space specular light
 // - SUPPORTS lightmap
 
-Shader "MADFINGER/Environment/Virtual Gloss Per-Vertex Additive (Supports Lightmap)" {
+Shader "SG/Environment/Virtual Gloss Per-Vertex Additive (Supports Lightmap)" {
 Properties {
 	_MainTex ("Base (RGB) Gloss (A)", 2D) = "white" {}
 	//_MainTexMipBias ("Base Sharpness", Range (-10, 10)) = 0.0

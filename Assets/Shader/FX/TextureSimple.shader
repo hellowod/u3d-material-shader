@@ -1,4 +1,4 @@
-Shader "MADFINGER/Diffuse/Simple" { 
+Shader "SG/Diffuse/Simple" { 
 Properties {
       _MainTex ("Base (RGB)", 2D) = "white"
    }

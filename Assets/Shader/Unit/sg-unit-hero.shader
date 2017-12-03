@@ -1,4 +1,4 @@
-Shader "Mobile/BRDFLit (Supports Backlight)" {
+Shader "SG/BRDFLit (Supports Backlight)" {
 Properties {
 	_MainTex ("Base (RGB) Gloss (A)", 2D) = "grey" {}
 	_BumpMap ("Normalmap", 2D) = "bump" {}

@@ -1,4 +1,4 @@
-Shader "MADFINGER/Particles/Alpha Blended" {
+Shader "SG/Particles/Alpha Blended" {
 Properties {
 	_MainTex ("Particle Texture", 2D) = "white" {}
 }

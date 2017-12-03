@@ -9,7 +9,7 @@
 // - Per-vertex (virtual) camera space specular light
 // - SUPPORTS lightmap
 
-Shader "MADFINGER/Environment/Lightmap + Wind" {
+Shader "SG/Environment/Lightmap + Wind" {
 Properties {
 	_MainTex ("Base (RGB) Gloss (A)", 2D) = "white" {}
 	_Wind("Wind params",Vector) = (1,1,1,1)
